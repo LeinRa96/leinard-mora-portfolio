@@ -1,0 +1,16 @@
+body {
+    min-height: 2555px;
+}
+
+.jumbotron {
+    margin-top: 2rem;
+    padding-top: 4rem;
+}
+
+.jumbotron, #portfolio {
+    background-color: #e2edff;
+}
+
+.icon {
+    font-size: 300%;
+}
